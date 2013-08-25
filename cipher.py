@@ -4,7 +4,7 @@ Substitution cipher
 Copyright 2013 Yasukawa.T
 """
 
-def rotate_word2(word,n):
+def rotate_word(word,n):
 	"""return decoded or encoded strings by number 'n'
 	word: strings you wanna encode or decode
 	n: a number you wanna encode or decode by
